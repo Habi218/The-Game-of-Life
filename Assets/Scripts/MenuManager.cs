@@ -23,7 +23,6 @@ public class MenuManager : MonoBehaviour {
     }
 
     // Scene Load
-
     public void LoadMainMenuScene() {
         PlayClickSound();
         GameManager.Instance.UpdateGameState(GameState.MainMenu);

@@ -10,6 +10,7 @@ public class GameManager : MonoBehaviour {
     public GameState State;
 
     // Game data
+    public static bool UseArray = true;
     public static int BoardWidth = 36;
     public static int BoardHeight = 36;
     public static int Population = 0;
