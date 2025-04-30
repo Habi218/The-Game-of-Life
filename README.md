@@ -4,6 +4,9 @@
 
 The Game of Life is a cellular automaton simulation that explores the patterns that can arise from a few rules. The game and its rules were created by mathematician John Conway in 1970. The simulation consists of a grid of cells that can be in either a dead or alive state. The next state of each cell is determined by the number of alive and dead neighbors it has. While it is not typically considered a conventional game, this project aims to implement the cellular generation of Conway’s Game of Life and introduce a puzzle exploration aspect to it. In this iteration the player is encouraged to explore the evolution of each initial pattern they create.
 
+### Video Demo
+https://www.youtube.com/watch?v=aSrZJDA7GFs
+
 ## Game Design
 
 ### Game Manager
