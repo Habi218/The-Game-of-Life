@@ -32,6 +32,60 @@ The game uses the singleton pattern by creating a game manager instance that has
 - If a cell is alive and has two or three live neighbors it lives in the next generation otherwise it dies
 - If a cell is dead and has exactly three live neighbors it becomes a live cell in the next generation
 
+# Development Notes
+
+## Mechanic Ideas
+
+- Tiles come to life on mouse hover
+- Tiles change color by age - Blue to Red/Orange (Shader?)
+- 3D Tiles rise and fall with age
+- SoundWave Tiles react with color and height to music?
+- Audio controller in game scene
+
+## Patterns
+
+- 1 - turns to quad rotor
+- 2 - 2 boats
+- 3 - 100 pop
+- 9 - 120 pop/50 gens
+- 8 - terminates under 20 gens/50 pop
+- Grower
+    
+    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6784b12a-0486-40dd-9328-8ac1d85456ae/Untitled.png)
+    
+    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e0087fde-03fc-462c-a9de-caf5453a0ffe/Untitled.png)
+    
+
+## Controls
+
+- Space - Play/Pause Time
+- Tab - Show UI ???
+- R - Clear Board
+- Q/E - Lower or Speed up time
+
+## Puzzle Mode
+
+- Start with blank grid
+- Some number of active cells
+- If at the end there are more that N cells alive win
+- Or if there are any cells alive win
+- Or if there are any static pattern win/points
+- Can pause and play at any moment
+- Can use cells at any moment
+- Have to use at least 5? Scales with grid size
+- Points per cell per generation
+
+## Puzzle Mode
+
+- Keep cell’s alive for 20 generations or reach a population of 50 to win (Turn count green on completion)
+- Next appears on bottom right when won/loads settings menu
+- Upon generation 0 “Generations have terminated”
+- Start with blank grid
+- Given 20 cells to put down/Dont have to use all
+- Reach population P to win
+- No pause/ No cells after start
+- Time Slider
+
 ### Credits
 
 - Music: Airplane Mode by Yokonap
