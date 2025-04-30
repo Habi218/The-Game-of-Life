@@ -36,4 +36,4 @@ The game uses the singleton pattern by creating a game manager instance that has
 
 - Music: Airplane Mode by Yokonap
 
-Thank you for exploring the Game of Life Project. We hope you enjoy experimenting with cellular automata and observing the fascinating patterns that emerge from simple rules!
+Thank you for exploring the Game of Life Project. I hope you enjoy experimenting with cellular automata and observing the fascinating patterns that emerge from simple rules!
