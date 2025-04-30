@@ -51,10 +51,10 @@ The game uses the singleton pattern by creating a game manager instance that has
 - 8 - terminates under 20 gens/50 pop
 - Grower
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6784b12a-0486-40dd-9328-8ac1d85456ae/Untitled.png)
-    
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e0087fde-03fc-462c-a9de-caf5453a0ffe/Untitled.png)
-    
+    ![Untitled](https://github.com/user-attachments/assets/3f8f07bc-6f9c-4b32-8c86-f56980bb9057)
+
+    ![Untitled](https://github.com/user-attachments/assets/32225668-89cc-4b29-ad05-a7d993ba2b4a)
+
 
 ## Controls
 
